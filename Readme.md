@@ -24,7 +24,7 @@ working dir
 			
 In the same time the script save on file (txt) the dataset resulted.
 In the code there are a lot of lines outputting messages to the user with the
-current state of execution (cut('Step 1...') and so on...).
+current state of execution (cat('Step 1...') and so on...).
 There are also same lines, NOT ACTIVATED, commented with #DEGUG that can be 
 uncommented to increase speed and save resource (deleting intermediate result
 from memory).
