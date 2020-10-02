@@ -1,7 +1,7 @@
 # DESCRIPTION #
 The script it's been developed all in one file.
 Probably can be better to subdivide in multiple files, each one for each step but 
-for brevity and semplicity of control it is been choose to mantain a single file,
+for brevity and simplicity of control it has been decided to mantain a single file,
 named run_analysis.R
 
 # USAGE #
